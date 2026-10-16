@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "name": "Apeksha Morappanavar",
+    "email": "apekshamorappanavar09@gmail.com",
+    "phone": "8105474336",
+    "location": "Belagavi, Karnataka, India",
+    "linkedin": "https://www.linkedin.com/in/apeksha-morappanavar/",
+    "github": "https://github.com/apeksha0903",
+    "website": null
+  },
+  "career_preferences": {
+    "target_roles": [
+      "Software Engineer",
+      "Backend Software Engineer",
+      "Full-Stack Software Engineer",
+      "C++ Software Engineer"
+    ],
+    "excluded_domains": [
+      "Embedded roles",
+      "Hardware-related roles",
+      "Automotive roles",
+      "Roles involving EC/electronics/hardware development"
+    ],
+    "job_filter_rules": {
+      "allowed_experience_ranges": [
+        "0-1 years",
+        "0-2 years",
+        "1 year",
+        "1-2 years"
+      ],
+      "excluded_keywords": [
+        "1-3 years",
+        "2+ years",
+        "2-3 years",
+        "3+ years",
+        "3-5 years",
+        "5+ years"
+      ],
+      "rule": "Only consider jobs when the explicitly stated experience requirement is 0-1 years, 0-2 years, 1 year, or 1-2 years. Jobs with any other explicitly stated experience requirement must be discarded."
+    }
+  },
+  "professional_experience": [
+    {
+      "company": "Magna International",
+      "role": "Software Engineer",
+      "period": "March 2025 – Present",
+      "experience_level": "1+ year of professional software engineering experience",
+      "responsibilities": [
+        "C++ software development",
+        "Legacy / software modernization",
+        "Cross-functional software development",
+        "QA-C++ / static analysis and Helix QAC compliance"
+      ],
+      "achievements": [
+        "Developed 50+ Google Test unit tests",
+        "Built 3+ Python automation tools",
+        "Achieved approximately 40% runtime and performance improvement"
+      ],
+      "technologies": [
+        "C++",
+        "Python",
+        "Google Test",
+        "Linux",
+        "ROS2",
+        "Helix QAC"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "MultiFlix",
+      "description": "Full-stack streaming application platform.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "highlights": [
+        "Designed REST APIs and implemented responsive frontend user interfaces."
+      ],
+      "link": null
+    },
+    {
+      "title": "MERN-GPT",
+      "description": "AI-enabled web application integrating LLM capabilities into a MERN stack application.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Gemini API",
+        "JWT"
+      ],
+      "highlights": [
+        "Integrated authentication and AI assistant capabilities."
+      ],
+      "link": null
+    },
+    {
+      "title": "Breast Cancer Detection Using Few-Shot Learning",
+      "description": "Computer vision research project for medical image analysis using Prototypical Networks.",
+      "technologies": [
+        "Python",
+        "CNNs",
+        "Few-shot learning",
+        "Data augmentation",
+        "Model evaluation"
+      ],
+      "highlights": [
+        "Evaluated prototypical networks on limited medical imaging data."
+      ],
+      "link": null
+    }
+  ],
+  "research": [
+    {
+      "title": "Breast Cancer Detection by Prototypical Networks Using Few-Shot Learning",
+      "publication": "IEEE Bangalore / INCET 2024",
+      "year": "2024",
+      "summary": "Presented research on Prototypical Networks and few-shot learning for disease detection at INCET 2024."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering (B.E.) in Computer Science and Engineering",
+      "institution": "KLE Technological University",
+      "period": "2021 – 2025",
+      "cgpa": 9.44
+    }
+  ],
+  "skills": {
+    "languages": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "backend_and_web": [
+      "Node.js",
+      "Express.js",
+      "React",
+      "Vite",
+      "Tailwind",
+      "REST API design",
+      "JWT",
+      "Passport",
+      "OAuth",
+      "RBAC"
+    ],
+    "databases": [
+      "MongoDB",
+      "Mongoose",
+      "Oracle SQL"
+    ],
+    "testing_and_qa": [
+      "Unit Testing",
+      "Integration Testing",
+      "Google Test",
+      "Helix QAC"
+    ],
+    "tools_and_platforms": [
+      "Linux",
+      "Git",
+      "Windows",
+      "Informatica"
+    ],
+    "ai_and_data_science": [
+      "Gemini API",
+      "CNNs",
+      "Few-shot learning",
+      "Data augmentation",
+      "Model evaluation",
+      "MATLAB"
+    ],
+    "domain_knowledge": [
+      "OOP",
+      "Data Structures and Algorithms",
+      "Multithreading",
+      "Distributed Systems",
+      "System Design",
+      "Debugging",
+      "Optimization",
+      "ROS2"
+    ]
+  },
+  "certifications": [
+    {
+      "title": "Linear Programming and Its Applications to Computer Science",
+      "issuer": "IIT Kanpur"
+    },
+    {
+      "title": "Breast Cancer Detection by Prototypical Networks Using Few-Shot Learning",
+      "issuer": "IEEE Bangalore"
+    },
+    {
+      "title": "JNCIA-Junos",
+      "issuer": "Juniper Networks"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Smart India Hackathon",
+      "description": "Won internal Smart India Hackathon round at institute level."
+    },
+    {
+      "title": "Conference Presentation",
+      "description": "Presented research on Prototypical Networks and few-shot learning for disease detection at INCET 2024."
+    }
+  ],
+  "resume_tailoring_context": {
+    "note": "candidate.json is the authoritative source of candidate facts. RAG documents provide supporting context and historical resume wording but must not override verified candidate facts.",
+    "master_principle": "Never fabricate skills, qualifications, or experience. Never convert project or research experience into professional experience.",
+    "document_principle": "The three existing resumes are variants of the same candidate resume and should be treated as historical tailoring examples, not separate candidate profiles."
+  }
+}
